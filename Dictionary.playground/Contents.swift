@@ -10,6 +10,11 @@ print("nameDictionary ที่มีค่า Key คือ mother : \(String(d
 
 print("nameDictionary ที่มีค่า Key คือ mother : \(nameDictionary["father"]!)")
 
+//Get Un Key
+print("nameDictionary ของ Key ที่ไม่มี \(String(describing:nameDictionary["xxx"]))")
+
+
+
 
 
 
